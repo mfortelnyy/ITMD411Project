@@ -183,7 +183,7 @@ public class Tickets extends JFrame implements ActionListener {
 			if (upd != 0) 
 			{
 				System.out.println("Ticket ID : " + tid + " updated successfully!!!");
-				JOptionPane.showMessageDialog(null, "Ticket id: " + tid + " created");
+				JOptionPane.showMessageDialog(null, "Ticket id: " + tid + " updated successfully!!!");
 			}
 			else
 			{
